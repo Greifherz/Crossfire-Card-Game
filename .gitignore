@@ -70,7 +70,8 @@ sysinfo.txt
 /*.unityproj
 /*.booproj
 /.idea*/
- 
+*.meta
+
 # ============ #
 # OS generated #
 # ============ #
